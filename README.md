@@ -57,7 +57,7 @@ I enjoy solving real-world problems through clean, maintainable code.
 
 | Project | Description | Stack | Demo |
 |---------|-------------|-------|------|
-| [Restaurant Website](https://github.com/BhumikaBC07/restaurant-website) | Responsive restaurant site with menu, testimonials & contact form | HTML · CSS · jQuery | [Live](#) |
+| [Restaurant Website](https://github.com/BhumikaBC07/restaurant-website) | Responsive restaurant site with menu, testimonials & contact form | HTML · CSS · jQuery | [Live](https://restaurant-website-07.netlify.app/) |
 | [YouTube Clone](https://github.com/BhumikaBC07/youtube-clone) | Pixel-accurate YouTube homepage — responsive UI with HTML/CSS/JS | HTML · CSS · JS | [Live](#) |
 
 
