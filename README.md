@@ -65,15 +65,11 @@ I enjoy solving real-world problems through clean, maintainable code.
 
 ## 📊 GitHub Stats
 
-<div align="center">
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BhumikaBC07&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Bhumika's GitHub Stats" />
-
-&nbsp;
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BhumikaBC07&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-
-</div>
+![Followers](https://img.shields.io/github/followers/BhumikaBC07?style=for-the-badge&color=blue)
+![Stars](https://img.shields.io/github/stars/BhumikaBC07?style=for-the-badge&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=BhumikaBC07&style=for-the-badge&color=brightgreen)
 
 ---
 
