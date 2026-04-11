@@ -69,6 +69,8 @@ I enjoy solving real-world problems through clean, maintainable code.
 ![Stars](https://img.shields.io/github/stars/BhumikaBC07?style=for-the-badge&color=yellow)
 ![Profile Views](https://komarev.com/ghpvc/?username=BhumikaBC07&style=for-the-badge&color=brightgreen)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=BhumikaBC07&theme=github-dark-blue&hide_border=true)
+
 ---
 
 ## 🤝 Open to Opportunities
