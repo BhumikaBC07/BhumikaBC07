@@ -65,8 +65,6 @@ I enjoy solving real-world problems through clean, maintainable code.
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 ![Followers](https://img.shields.io/github/followers/BhumikaBC07?style=for-the-badge&color=blue)
 ![Stars](https://img.shields.io/github/stars/BhumikaBC07?style=for-the-badge&color=yellow)
 ![Profile Views](https://komarev.com/ghpvc/?username=BhumikaBC07&style=for-the-badge&color=brightgreen)
