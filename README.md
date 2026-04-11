@@ -67,9 +67,11 @@ I enjoy solving real-world problems through clean, maintainable code.
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=BhumikaBC07&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Bhumika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhumikaBC07&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhumikaBC07&layout=compact&theme=github_dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=BhumikaBC07&theme=github-dark-blue&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhumikaBC07&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
