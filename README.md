@@ -24,7 +24,7 @@ I enjoy solving real-world problems through clean, maintainable code.
 
 - 🎯 **Goal:** Secure a Full Stack Java Developer role where I can contribute and grow
 - 🌱 **Currently Learning:** Spring Security · Docker · System Design
-- 🏗️ **Building:** [Your current project name]
+- 🏗️ **Building:** [Luxe Shop | Full-Stack ECommerce Application]
 - 📫 **Reach me:** [bhumikachuchakoti@gmail.com]
 
 ---
