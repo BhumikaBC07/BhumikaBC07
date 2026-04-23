@@ -12,7 +12,7 @@ I build things end-to-end — from REST APIs to React UIs to production deployme
 Currently working on Luxe-Shop, a full e-commerce platform with payments and Docker.
 Based in Kalaburagi, India · Open to hybrid & onsite roles.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhumikachuchakoti-9b317727a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhumika-chuchakoti-9b317727a)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bhumikachuchakoti@gmail.com)
 
 
@@ -81,4 +81,4 @@ manage orders — all with JWT-secured accounts.
 Looking for **full-stack Java developer roles or internships** — hybrid or onsite, India.
 If you're building something interesting, I'd like to hear about it.
 
-[Connect on LinkedIn](https://www.linkedin.com/in/bhumikachuchakoti-9b317727a) · [bhumikachuchakoti@gmail.com](mailto:bhumikachuchakoti@gmail.com)
+[Connect on LinkedIn](https://www.linkedin.com/in/bhumika-chuchakoti-9b317727a) · [bhumikachuchakoti@gmail.com](mailto:bhumikachuchakoti@gmail.com)
