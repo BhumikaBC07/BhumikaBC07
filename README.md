@@ -59,8 +59,7 @@ I enjoy solving real-world problems through clean, maintainable code.
 |---------|-------------|-------|------|
 | [Restaurant Website](https://github.com/BhumikaBC07/restaurant-website) | Responsive restaurant site with menu, testimonials & contact form | HTML · CSS · jQuery | [Live](https://restaurant-website-seven-pink.vercel.app) |
 | [YouTube Clone](https://github.com/BhumikaBC07/youtube-clone) | Pixel-accurate YouTube homepage — responsive UI with HTML/CSS/JS | HTML · CSS · JS | [Live](https://youtube-clone-ui-indol.vercel.app) |
-| [Luxe-Shop](https://github.com/BhumikaBC07/Full-Stack-ECommerce-Application) | A production-deployed e-commerce platform built with a Java Spring Boot REST API 
-backend and a React + Redux frontend, backed by MySQL on Railway and hosted on Vercel | spring-boot, react, redux, MySQL, java ecommerce, Jwt, Razorpay, tailwindcss, docker, railway, vercel | [Live](https://full-stack-e-commerce-application-x.vercel.app/)
+| [Luxe-Shop](https://github.com/BhumikaBC07/Full-Stack-ECommerce-Application) | A production-deployed e-commerce platform built with a Java Spring Boot REST API | spring-boot, react, redux, MySQL, Jwt, Razorpay, tailwindcss, docker, railway, vercel | [Live](https://full-stack-e-commerce-application-x.vercel.app/)
 
 
 ---
