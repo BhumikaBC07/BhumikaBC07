@@ -46,6 +46,7 @@ manage orders — all with JWT-secured accounts.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-0077B5?style=for-the-badge)](https://full-stack-e-commerce-application-x.vercel.app/)
 [![Source Code](https://img.shields.io/badge/Source_Code-GitHub-333?style=for-the-badge&logo=github)](https://github.com/BhumikaBC07/Full-Stack-ECommerce-Application)
+![Luxe-Shop demo](https://raw.githubusercontent.com/BhumikaBC07/Full-Stack-ECommerce-Application/main/demo.gif)
 
 
 
