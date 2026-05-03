@@ -1,85 +1,162 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  BHUMIKA CHUCHAKOTI — README.md               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
+<div align="center">
 
+<!-- TYPING ANIMATION HEADER -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Bhumika+%F0%9F%91%8B;Full+Stack+Java+Developer;Building+things+that+actually+work+%F0%9F%9A%80;Open+to+Jobs+%26+Internships!)](https://git.io/typing-svg)
 
+<!-- SOCIAL BADGES -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhumika-chuchakoti-9b317727a)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhumikachuchakoti@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BhumikaBC07)
 
+<!-- PROFILE VIEWS COUNTER -->
+![Profile Views](https://komarev.com/ghpvc/?username=BhumikaBC07&style=for-the-badge&color=6E57F7&label=Profile+Views)
 
-
-# Bhumika Chuchakoti
-
-**Full-Stack Developer · Java · Spring Boot · React · MySQL**
-
-I build things end-to-end — from REST APIs to React UIs to production deployments.
-Currently working on Luxe-Shop, a full e-commerce platform with payments and Docker.
-Based in Kalaburagi, India · Open to hybrid & onsite roles.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhumika-chuchakoti-9b317727a)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bhumikachuchakoti@gmail.com)
-
-
-
-
+</div>
 
 ---
 
-## What I build
+## 🙋‍♀️ Who am I?
 
-Backend-first full-stack apps. I'm comfortable owning the entire stack —
-designing the schema, writing the Spring Boot API, connecting it to a
-React frontend, and deploying with Docker. I care about clean code,
-meaningful commit history, and shipping things that actually work.
+I'm Bhumika — a Full Stack Java Developer who gets genuinely excited about building things end-to-end. I'm at the start of my career, but I've already shipped real projects with backends, databases, and live frontends. I write clean code, break things intentionally to learn, and put everything on GitHub so you can see exactly how I work.
 
-- **Backend**: Java · Spring Boot · Hibernate · REST APIs · Spring Security
-- **Frontend**: React · Redux · HTML5 · CSS3 · JavaScript · Tailwind CSS
-- **Data**: MySQL · JPA
-- **Tools**: Git · Maven · Postman · Docker · JWT · Razorpay
+Right now I'm building a full-stack eCommerce app from scratch — Spring Boot on the backend, React on the front, MySQL underneath. It's messy in the middle and that's kind of the point.
 
----
-
-## Featured: Luxe-Shop
-
-> Full-stack e-commerce platform — designed, built, and deployed solo.
-
-**What it does**: Browse products, add to cart, checkout with Razorpay payments,
-manage orders — all with JWT-secured accounts.
-
-**Stack**: Spring Boot · React · Redux · MySQL · JWT · Razorpay · Docker · Railway · Vercel
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-0077B5?style=for-the-badge)](https://full-stack-e-commerce-application-x.vercel.app/)
-[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-333?style=for-the-badge&logo=github)](https://github.com/BhumikaBC07/Full-Stack-ECommerce-Application)
-![Luxe-Shop demo](https://raw.githubusercontent.com/BhumikaBC07/Full-Stack-ECommerce-Application/main/demo.gif)
-
-
-
+```java
+Developer bhumika = new Developer();
+bhumika.setName("Bhumika Chuchakoti");
+bhumika.setRole("Full Stack Java Developer");
+bhumika.setStatus("Open to jobs & internships 🟢");
+bhumika.setLocation("Kalaburagi, India");
+bhumika.setCurrentlyBuilding("Luxe Shop — Full Stack eCommerce App");
+bhumika.setLearning(new String[]{"Spring Security", "Docker", "System Design"});
+```
 
 ---
 
-## Other projects
+## 🛠️ Tech Stack
 
-| Project | What it is | Live |
-|---------|------------|------|
-| [Restaurant Website](https://github.com/BhumikaBC07/restaurant-website) | Responsive site with menu, testimonials, contact form — HTML/CSS/jQuery | [↗](https://restaurant-website-seven-pink.vercel.app) |
-| [YouTube Clone](https://github.com/BhumikaBC07/youtube-clone) | Pixel-accurate YouTube homepage — pure HTML/CSS/JS | [↗](https://youtube-clone-ui-indol.vercel.app) |
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Also used in projects**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+
+**Database & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## Currently learning
+## 🚀 What I've Built
 
-- Spring Security (auth flows, role-based access)
-- Docker & containerized deployments
-- System design fundamentals
+### 🌐 PortfolioHub — 3D AI Portfolio Marketplace *(Most Recent)*
+> Next.js 14 · TypeScript · React Three Fiber · Node.js · PostgreSQL · Stripe · OpenAI · Prisma · Vercel
+
+A full-featured marketplace where developers can browse and purchase premium portfolio templates. Built with a 3D animated hero (floating geometries via Three.js), Stripe payment flows with webhooks, an OpenAI-powered bio generator, JWT auth with role-based access, an admin CRUD panel, and a fully responsive editorial UI. This one has it all.
+
+**Highlights:** 16 portfolio templates across 4 categories · Stripe checkout + webhook confirmation · AI bio generation via GPT-4o-mini · Loading skeletons + toast notifications · Deployed live
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BhumikaBC07/portfolio-marketplace)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-marketplace-tan.vercel.app)
 
 ---
 
-## GitHub activity
+### 🛒 Luxe Shop — Full Stack eCommerce App *(In Progress)*
+> Spring Boot · React · MySQL · REST API · Maven
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhumikaBC07&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhumikaBC07&layout=compact&theme=github_dark&hide_border=true)
+The one I'm most proud of — and still building. Full product catalog, user auth, cart, and order management. Backend APIs done, frontend in React ongoing.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BhumikaBC07/Full-Stack-ECommerce-Application)
 
 ---
 
-## Open to opportunities
+### 📺 YouTube Clone UI
+> HTML · CSS · JavaScript
 
-Looking for **full-stack Java developer roles or internships** — hybrid or onsite, India.
-If you're building something interesting, I'd like to hear about it.
+Pixel-accurate YouTube homepage clone — responsive layout, sidebar, video cards, and hover states. A frontend precision exercise.
 
-[Connect on LinkedIn](https://www.linkedin.com/in/bhumika-chuchakoti-9b317727a) · [bhumikachuchakoti@gmail.com](mailto:bhumikachuchakoti@gmail.com)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BhumikaBC07/youtube-clone-ui)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://youtube-clone-ui-indol.vercel.app)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Bhumika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhumikaBC07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhumikaBC07&layout=compact&theme=tokyonight&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=BhumikaBC07&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=BhumikaBC07&theme=tokyonight&no-frame=true&row=1&column=6)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BhumikaBC07&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 💬 Let's Talk
+
+I'm genuinely looking for my first role — full stack, backend, or internship. If you're building something with Java or React and need someone who learns fast and pushes code that works, let's connect.
+
+<div align="center">
+
+[![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhumikachuchakoti@gmail.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhumika-chuchakoti-9b317727a)
+
+</div>
+
+---
+
+<div align="center">
+
+*Thanks for stopping by — now go check out the repos 👇*
+
+</div>
