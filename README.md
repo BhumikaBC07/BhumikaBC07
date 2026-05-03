@@ -91,7 +91,9 @@ A full-featured marketplace where developers can browse and purchase premium por
 ### 🛒 Luxe Shop — Full Stack eCommerce App 
 > Spring Boot · React · MySQL · REST API · Maven
 
-The one I'm most proud of — and still building. Full product catalog, user auth, cart, and order management. Backend APIs done, frontend in React ongoing.
+Luxe Shop is a fully functional e-commerce platform built with a Java Spring Boot REST API backend and a React.js frontend. It supports complete user flows including registration, product browsing, cart management, COD and online payment checkout via Razorpay, order history, and an admin dashboard for product and order management.
+
+The project is deployed end-to-end on Railway (backend + MySQL) and Vercel (frontend) with proper environment variable management and CORS configuration.
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BhumikaBC07/Full-Stack-ECommerce-Application)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://full-stack-e-commerce-application-x.vercel.app/)
