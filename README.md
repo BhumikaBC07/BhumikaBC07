@@ -89,7 +89,7 @@ A full-featured marketplace where developers can browse and purchase premium por
 
 ---
 
-### 🛒 Luxe Shop — Full Stack eCommerce App *(In Progress)*
+### 🛒 Luxe Shop — Full Stack eCommerce App 
 > Spring Boot · React · MySQL · REST API · Maven
 
 The one I'm most proud of — and still building. Full product catalog, user auth, cart, and order management. Backend APIs done, frontend in React ongoing.
