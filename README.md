@@ -23,7 +23,6 @@
 
 I'm Bhumika — a Full Stack Java Developer who gets genuinely excited about building things end-to-end. I'm at the start of my career, but I've already shipped real projects with backends, databases, and live frontends. I write clean code, break things intentionally to learn, and put everything on GitHub so you can see exactly how I work.
 
-Right now I'm building a full-stack eCommerce app from scratch — Spring Boot on the backend, React on the front, MySQL underneath. It's messy in the middle and that's kind of the point.
 
 ```java
 Developer bhumika = new Developer();
