@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhumika-chuchakoti-9b317727a)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhumikachuchakoti@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BhumikaBC07)
-[![Portfolio](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://drive.google.com/file/d/11IRyrmLK05OXwD_2i3VUvrqEkMlkrKab/view?usp=drive_link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://bhumikabc07.github.io/portfolio)
 
 <!-- PROFILE VIEWS COUNTER -->
 ![Profile Views](https://komarev.com/ghpvc/?username=BhumikaBC07&style=for-the-badge&color=6E57F7&label=Profile+Views)
